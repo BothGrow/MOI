@@ -45,7 +45,7 @@ by [** Dr.Hoo - 一个信息技术老师&陪孩子一起成长的爸爸**](https
 
 ## [关于举办“编程猫杯”第二届大湾区青少年信息学编程认证暨竞赛活动（BBCC）的通知](https://www.szccf.org.cn/?p=1808)
 
-[点击报名](http://member.szccf.org.cn/register/bbcc_register)
+》》》》》[点击报名](http://member.szccf.org.cn/register/bbcc_register)
  
 **附件下载** ：
 ## [《大湾区青少年信息学编程认证大纲》](https://www.szccf.org.cn/wp-content/uploads/2021/05/2021050611542087.pdf)
