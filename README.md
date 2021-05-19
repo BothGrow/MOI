@@ -1,5 +1,6 @@
 # 1. MOI
 **Mathematical Olympiad in Informatics，用编程来解决奥数问题 **
+
 by [** Dr.Hoo - 一个信息技术老师&陪孩子一起成长的爸爸**](https://bothgrow.github.io/)[https://bothgrow.gitee.io/]
 
 # 2. 信息学竞赛及认证[NOI](https://www.noi.cn/gynoi/jj/)，[CSP-J/S](CSPJS.md)
