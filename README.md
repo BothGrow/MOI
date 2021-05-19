@@ -1,5 +1,5 @@
 # 1. MOI
-Mathematical Olympiad in Informatics，用编程来解决奥数问题
+Mathematical Olympiad in Informatics，用编程来解决奥数问题 by **DrHoo**
 
 # 2. 信息学竞赛及认证[NOI](https://www.noi.cn/gynoi/jj/)，[CSP-J/S](CSPJS.md)
 
