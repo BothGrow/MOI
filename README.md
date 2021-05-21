@@ -73,7 +73,9 @@ U18组，年龄2021年9月1日前未满19周岁的青少年。
 **附件下载** ：
 ## [《大湾区青少年信息学编程认证大纲》](https://www.szccf.org.cn/wp-content/uploads/2021/05/2021050611542087.pdf)
 
+### BBCC等级对照表
 
+![image](https://user-images.githubusercontent.com/79897958/119096001-96c5fe80-ba45-11eb-98fd-6ac3e553abcf.png)
 
 
 
